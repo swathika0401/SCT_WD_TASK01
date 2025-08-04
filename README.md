@@ -1,6 +1,6 @@
 #  Responsive Landing Page – SkillCraft Task 1
 This project is a *responsive landing page* created as part of the *SkillCraft Internship – Task 1. 
-It is designed using only **HTML* and *CSS, with a focus on clean design and professional structure. The website is hosted using **GitHub Pages*.
+It is designed using only **HTML* and *CSS, with a focus on clean design and professional structure. 
 ##  Preview
 👉 *Live Website*: [Click Here](https://swathika0401.github.io/landing--page-task01/)
 ##  Features
